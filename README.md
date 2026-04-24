@@ -1,14 +1,41 @@
-<h2> Hi👋🏻 </h2>
-<p>My name is Júlia Küchle and I'm a <strong>Software Developer</strong>.</p>
-<p>I'm currently learning ABAP. But in my spare time I like to work in projects with JavaScript, Node.js, Express and React. I have also work in the past with Python and Java.</p>
-<p>Feel free to reach me out 😊</p>
-<h2>GitHub Stats</h2>
-<p>Here's some of the stats from my repositories</p>
+<h2>Hi 👋🏻</h2>
 
+<p>I'm Júlia Küchle, a <strong>Software Developer</strong> focused on <strong>ABAP and the SAP ecosystem</strong>.</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaGK&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaGK&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+In my professional work, I build and maintain enterprise solutions using ABAP, with a focus on <strong>code quality, testing and reliability</strong>.
+</p>
+
+<p>
+Outside of work, I develop projects using <strong>JavaScript / TypeScript, Node.js and React</strong>, exploring ways to improve developer workflows and automate repetitive tasks.
+</p>
+
+<p>
+I'm especially interested in applying <strong>AI and automation</strong> to increase efficiency and improve delivery quality in software projects.
+</p>
+
+<h3>What I work with</h3>
+
+<ul>
+  <li>ABAP (SAP)</li>
+  <li>JavaScript / TypeScript</li>
+  <li>Node.js / Express</li>
+  <li>React</li>
+  <li>Python</li>
+</ul>
+
+<h3>Contact</h3>
+
+<p>Feel free to reach out:</p>
 
 <a href="https://www.linkedin.com/in/julia-kuchle/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
+
+<h3>GitHub Stats</h3>
+
+<p>Here's some stats from my repositories:</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaGK&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaGK&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
