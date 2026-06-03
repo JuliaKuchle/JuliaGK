@@ -31,11 +31,3 @@ I'm especially interested in applying <strong>AI and automation</strong> to incr
 <a href="https://www.linkedin.com/in/julia-kuchle/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-
-
-<h3>GitHub Stats</h3>
-
-<p>Here's some stats from my repositories:</p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaGK&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaGK&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
